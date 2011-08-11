@@ -1,9 +1,4 @@
 """
-this is a small change for subversion test... 16th Oct 2006 wmc
-this is another edit on the 16th Oct 2006, but a little later...with command line! wmc
-and again, this is getting boring!!!
-
-
 landsat.py
 landsat analysis package
 
